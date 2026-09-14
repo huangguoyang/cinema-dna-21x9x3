@@ -1,4 +1,15 @@
-# CINEMA DNA
+# CINEMA DNA（微调优化版）
+
+> **📌 出处与致谢**
+>
+> 本项目是基于原作者 **[dacnay816y62-hub](https://github.com/dacnay816y62-hub)**（FANTASY / 梵想美学）的 **[cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)** 微调优化而来的衍生版本，非官方原版。
+>
+> - 🔗 原版仓库：https://github.com/dacnay816y62-hub/cinema-dna-21x9x3
+> - ⭐ 如果这个 Skill 对你有帮助，请给**原作者**点一颗星：https://github.com/dacnay816y62-hub/cinema-dna-21x9x3
+>
+> **本版相对原版的改动（微调优化）**：
+> - 新增 `references/cinema-dna-v5-real-surface.md` —— 画面真实微观层：真实皮肤 / 真实身体（重力·肌肉·关节）/ 材质事件痕迹 / 环境生活痕迹 / photographic vs generative mistake / 自然光细粒度；挂 SKILL.md §6 / §10.4 / §12
+> - 新增 `references/cinema-dna-v6-reference-evidence.md` —— 电影参考的证据分层与风格迁移：证据层级 / 反臆测视觉等效建议 / 视觉 DNA 收束 / 结构关系迁移 / 静帧诚实边界；挂 SKILL.md §9 / §12
 
 ### 电影静帧 · 三联叙事 · 九镜故事板
 
