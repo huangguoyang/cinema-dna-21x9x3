@@ -238,6 +238,8 @@ $sources = @('shot01.png','shot02.png','shot03.png','shot04.png','shot05.png','s
 
 若同时借用两个以上主要维度，或一眼能认出某个具体电影静帧、海报或现成 IP 的轮廓，必须重写。最终提示词不要依赖导演名或电影名，把审美翻译成可见的布景、服装、光源、构图、材质和曝光事实。
 
+当参考是电影片名、电影截图或导演时，先做证据分层与风格迁移，再决定借用哪个维度；方法见 [references/cinema-dna-v6-reference-evidence.md](references/cinema-dna-v6-reference-evidence.md)。片名 / 导演名永远只是参考索引，不是提示词主体。
+
 ## 10. 质量验收
 
 生成前和交付前都检查。
@@ -334,6 +336,7 @@ $sources = @('shot01.png','shot02.png','shot03.png','shot04.png','shot05.png','s
 - 九镜故事任务：必须读取 [references/nine-shot-story-protocol-v3.md](references/nine-shot-story-protocol-v3.md)。
 - 输出仍显得油腻、过度精致、过脏或镜头节奏常规时：读取 [references/cinema-dna-v4-anti-ai.md](references/cinema-dna-v4-anti-ai.md)。
 - 皮肤 / 身体 / 材质 / 环境仍像数字渲染、缺少事件痕迹与真实人体质感时：读取 [references/cinema-dna-v5-real-surface.md](references/cinema-dna-v5-real-surface.md)。
+- 电影片名 / 截图 / 导演作参考，需要证据分层、反臆测与风格迁移时：读取 [references/cinema-dna-v6-reference-evidence.md](references/cinema-dna-v6-reference-evidence.md)。
 - 需要更完整的单帧、三联、焦段、光学和题材方法库时：按相关章节读取 [references/cinema-dna-full-spec.md](references/cinema-dna-full-spec.md)，不要整份加载。
 
 ## 13. 最终原则
