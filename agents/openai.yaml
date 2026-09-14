@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinema DNA 3.0 — 21:9 Storyboard"
+  short_description: "用独立电影镜头构建单帧、三联与九镜故事，保持人物、空间和动作连续性"
+  default_prompt: "Use $cinema-dna-21x9x3 to turn my subject or story into cinematic stills: one frame, a triptych, or a nine-shot story; generate shots independently, preserve continuity and compose externally, or provide text only when I request prompts."
